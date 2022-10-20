@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [lifts](https://github.com/etweisberg/lifts)
 
+- 🎉 Check out my project that won a community service award at The 11th Peptoid Summit [PeptoidDB](https://databank.peptoids.org/)
+ 
 - 🌱 I’m currently learning **MERN and React Native**
 
 - 📫 How to reach me **ethaniw@seas.upenn.edu**
