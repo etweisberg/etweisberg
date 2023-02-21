@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan Weisberg</h1>
 <h3 align="center">A computer science student and aspiring software engineer</h3>
 
-- 🔭 I’m currently working on [lifts](https://github.com/etweisberg/lifts)
+- 🔭 I’m currently working on [lifts](https://github.com/etweisberg/lifts) and a clinical trial matching app called Tryal
 
 - 🎉 Check out my project that won a community service award at The 11th Peptoid Summit [PeptoidDB](https://databank.peptoids.org/)
  
