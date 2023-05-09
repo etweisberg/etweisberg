@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ethaniw@seas.upenn.edu**
 
-- 📄 Know about my experiences [Resume](https://penno365-my.sharepoint.com/:b:/g/personal/ethaniw_upenn_edu/EfOo4Ipz7-lHkY7imyYy8GYB-3hPJGlOIOCePqoMJarrWQ?e=SQ0nS0)
+- 📄 Know about my experiences [Resume](https://penno365-my.sharepoint.com/:b:/g/personal/ethaniw_upenn_edu/EfOo4Ipz7-lHkY7imyYy8GYB-3hPJGlOIOCePqoMJarrWQ?e=SQ0nS0](https://penno365-my.sharepoint.com/:b:/g/personal/ethaniw_upenn_edu/EWudzQrTtgREkagXGdoMyRgBp-P86VuUJgv7Mbfx4ilk7w?e=18EXe4)
 
 - ⚡ Fun fact **I have the same birthday as Shakespeare!**
 
