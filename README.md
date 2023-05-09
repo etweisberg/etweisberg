@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [Resume](https://penno365-my.sharepoint.com/:b:/g/personal/ethaniw_upenn_edu/EWudzQrTtgREkagXGdoMyRgBp-P86VuUJgv7Mbfx4ilk7w?e=18EXe4)
 
-- ⚡ Fun fact **I have the same birthday as Shakespeare!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ethaniweisberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethaniweisberg" height="30" width="40" /></a>
