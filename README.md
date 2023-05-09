@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a clinical trial matching app called [Tryal](https://github.com/etweisberg/tryal-s2023)
 
-- 🎉 Check out my project that won a community service award at The 11th Peptoid Summit [PeptoidDB](https://databank.peptoids.org/)
+- 🎉 Check out my project that won a community service award at The 11th Peptoid Summit [PeptoidDB](https://databank.peptoids.org/), and was published in the [_Journal of Peptide Science_](https://doi.org/10.1002/pep2.24307)!!
  
 - 🌱 I’m currently learning **MERN and React Native**
 
