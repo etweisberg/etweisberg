@@ -19,6 +19,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 - Languages: Python, JavaScript/TypeScript (React, Node), Java, C, HTML/CSS
+
+
 - Web Development: Flask, SQLite, React, Node, Express, MongoDB, Nginx, Docker, Git/GitHub
+
+
 - Data Science and Scientific Computing: Pandas, Matplotlib, scikit-learn, Plotly, MATLAB, cvxpy
