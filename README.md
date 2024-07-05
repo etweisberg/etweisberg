@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan Weisberg</h1>
 <h3 align="center">A computer science student and aspiring software engineer</h3>
 
-- 🔭 I’m currently working on a clinical trial matching app called [Tryal](https://github.com/etweisberg/tryal-s2023)
+- 🔭 I’m currently working at LinkedIn as a SWE intern
 
 - 🎉 Check out my project [PeptoidDB](https://databank.peptoids.org/) that won a community service award at The 11th Peptoid Summit , and was published in the [_Journal of Peptide Science_](https://doi.org/10.1002/pep2.24307)!!
  
