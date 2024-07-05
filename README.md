@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ethaniw@seas.upenn.edu**
 
-- 📄 Know about my experiences [Resume](https://www.overleaf.com/read/qbnszwxpnpnq)
+- 📄 Know about my experiences [Resume](https://www.overleaf.com/read/bphfydbrcwnk#92676d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
