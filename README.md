@@ -18,10 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Languages: Python, JavaScript/TypeScript (React, Node), Java, C, HTML/CSS
-
-
-- Web Development: Flask, SQLite, React, Node, Express, MongoDB, Nginx, Docker, Git/GitHub
-
-
-- Data Science and Scientific Computing: Pandas, Matplotlib, scikit-learn, Plotly, MATLAB, cvxpy
+- Programming Languages: Python, C++17, C, JavaScript, Java
+- Web: Django, Flask, FastAPI, Node, React, PostgreSQL, SQLite, MongoDB, AWS, Nginx
+- Systems: Redis, Celery, Elasticsearch, Docker, Terraform
+- Data Science: cvxpy, Pandas, scikit-learn, Tensorflow
