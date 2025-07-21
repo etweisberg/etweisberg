@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- **Programming Languages**: Python, C++17, C, JavaScript, Java, Go 
+- **Programming Languages**: Python, C++17, C, JavaScript, Java 
 - **Web**: Django, Flask, FastAPI, Node, React, PostgreSQL, SQLite, MongoDB, Nginx
 - **Systems**: k8s, Terraform, Docker, Redis, Celery, Elasticsearch, AWS (EC2, S3, CloudFront, CloudWatch, Route53), Google Cloud (GKE)
 - **Data Science**: cvxpy, Pandas, scikit-learn, Tensorflow
