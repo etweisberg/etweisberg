@@ -3,7 +3,7 @@
 
 - 🔭 I’m incoming @ LinkedIn as a SWE
 
-- 📫 How to reach me **ethaniwweisberg@gmail.com**
+- 📫 How to reach me **ethaniweisberg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
