@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan Weisberg</h1>
-<h3 align="center">A computer science student and aspiring software engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m incoming @ LinkedIn as a SWE
+- 🔭 I’m a SWE @ LinkedIn
 
 - 📫 How to reach me **ethaniweisberg@gmail.com**
 
