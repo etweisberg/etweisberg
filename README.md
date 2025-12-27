@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ethaniweisberg@gmail.com**
 
-- Check out my baseball [MCP server](https://github.com/etweisberg/mlb-mcp) ⚾ 
+- ⚾ Check out my baseball [MCP server](https://github.com/etweisberg/mlb-mcp)  :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
