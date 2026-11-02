@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan Weisberg</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m a SWE @ LinkedIn
+- 🔭 I’m a member of technical staff @ Traversal, formerly a SWE @ LinkedIn
 
 - 📫 How to reach me **ethaniweisberg@gmail.com**
 
